@@ -1,0 +1,12 @@
+column,start,length
+header,0,12
+total,11,6
+election_day,17,6
+mail_in,23,6
+early,29,6
+unknown,35,12
+candidate_party,47,10
+issue,57,56
+candidate_name,113,38
+precinct,151,55
+unknown2,206,2
