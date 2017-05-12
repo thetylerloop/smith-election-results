@@ -2,3 +2,7 @@
 .DS_Store
 .venv
 data/Voted 2016 Gen.xlsx
+.Rproj.user
+.RData
+.RHistory
+data
