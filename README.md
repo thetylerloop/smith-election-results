@@ -1,6 +1,6 @@
 # smith-election-results
 
-Analysis of Smith County election results data.
+Analysis of Smith County voter file and election results.
 
 *Not all contents of these repo were validated for publication.* All results should be treated as experimental.
 
